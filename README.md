@@ -2,12 +2,12 @@
 <br>
 
 > Home Page
-> <br> <img src="./img/homePage.png" alt="image-home">
+> <br> <img src="./coffee & cia/img/homePage.png" alt="image-home">
 
 <br>
 
 > Services Page
-> <br> <img src="./img/servicePage.png" alt="image-service">
+> <br> <img src="./coffee & cia/img/servicePage.png" alt="image-service">
 
 <br>
 
